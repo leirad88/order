@@ -29,3 +29,8 @@ jobs:
         port: 22
         source: "./catalog/bin/Release/net6.0/"
         target: "/var/www/acme"
+        
+    - name: Restart Application
+      run: ssh root@64.225.26.192 "sudo systemctl restart acme"
+      env:
+        DEPLOY_SSH_KEY: ${{ secrets.SSH_KEY }}
