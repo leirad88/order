@@ -1,0 +1,175 @@
+@model acme.Models.ImportedOrder
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ImportedOrder</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderNumber)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShippingMethod)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShippingMethod)
+        </dd>
+        <dt class="col-sm-2">
+            Shipping Address
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShippingAddress.FullAddress)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RequestedDeliveryDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RequestedDeliveryDate)
+        </dd>
+        <dt class="col-sm-2">
+            Billing Address
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BillingAddress.FullAddress)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Subtotal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Subtotal)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ShippingHandling)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ShippingHandling)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tax)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tax)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+<div class="col-xl-12 col-md-12 m-b-30">
+    <div class="card User-Activity">
+        <div class="card-header">
+            <h5>Products List</h5>
+            <div>
+
+            </div>
+
+            <div class="card-header-right">
+
+
+                <a data-bs-toggle="modal" data-bs-target="#modal-loading" class="btn btn-sm btn-primary text-right">Create Product</a>
+
+
+                <button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="feather icon-more-horizontal"></i>
+                </button>
+                <div class="btn-group card-option">
+                    <ul class="list-unstyled card-option dropdown-menu dropdown-menu-end">
+                        <li class="dropdown-item full-card">
+                            <a class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minimize"></i> Import Products
+                                </span>
+                            </a>
+                        </li>
+                        <li class="dropdown-item reload-card">
+                            <a class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minus"></i> Sort By Name
+                                </span>
+                            </a>
+                        </li>
+                        <li class="dropdown-item reload-card">
+                            <a class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minimize"></i> Sort By Price
+                                </span>
+                            </a>
+                        </li>
+                        <li class="dropdown-item reload-card">
+                            <a asp-action="Index" class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minimize"></i> Show Low Stock
+                                </span>
+                            </a>
+                        </li>
+
+                    </ul>
+                    <a asp-action="Index"><h3><i class="feather icon-x"></i></h3></a>
+                </div>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive table-billing-history" style="max-height: 400px; overflow-y: auto;" id="transfers" role="tabpanel" aria-labelledby="transfers-tab">
+                <table class="table mb-0">
+                    <thead>
+                        <tr>
+                            <th class="border-gray-200" scope="col">Name</th>
+                            <th class="border-gray-200" scope="col">Unit</th>
+                            <th class="border-gray-200" scope="col">Price</th>
+                            <th class="border-gray-200" scope="col">Quantity</th>
+                            <th class="border-gray-200" scope="col">Subtotal</th>
+                          
+                        </tr>
+                    </thead>
+                    <tbody style="max-height: 400px; overflow-y: auto;">
+                        @foreach (var item in Model.Items)
+                        {
+                            <tr>
+                                <td class="text-truncate" style="max-width: 400px !important;"><span> @item.Description</span></td>
+                                <td>@item.UnitType.</td>
+                                <td><div class="text-right">@item.UnitPrice.ToString("C", new System.Globalization.CultureInfo("en-US"))</div></td>
+                                <td>@item.Quantity.ToString()</td>
+                                <td><div class="text-right">@item.Subtotal.ToString("C", new System.Globalization.CultureInfo("en-US"))</div></td>
+
+                                
+                            </tr>
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+
+
+    </div>
+</div>

@@ -1,0 +1,1837 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/leirad/acme/catalog/obj/Debug/net8.0/scopedcss/projectbundle/acme.bundle.scp.css",
+      "PackagePath": "staticwebassets/acme.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/animate.min.css",
+      "PackagePath": "staticwebassets/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/dark-theme-core.css",
+      "PackagePath": "staticwebassets/css/dark-theme-core.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/dark-theme-core.css.map",
+      "PackagePath": "staticwebassets/css/dark-theme-core.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/dark.css",
+      "PackagePath": "staticwebassets/css/dark.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/forms.css",
+      "PackagePath": "staticwebassets/css/forms.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/light.css",
+      "PackagePath": "staticwebassets/css/light.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/css/nucleo-icons.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/css/nucleo-svg.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/css/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/site1.css",
+      "PackagePath": "staticwebassets/css/site1.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets/css/soft-ui-dashboard.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets/css/soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets/css/soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/style.min.css",
+      "PackagePath": "staticwebassets/css/style.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/css/widgets.css",
+      "PackagePath": "staticwebassets/css/widgets.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/datta/datta-icon.css",
+      "PackagePath": "staticwebassets/fonts/datta/datta-icon.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/datta/fonts/pct.eot",
+      "PackagePath": "staticwebassets/fonts/datta/fonts/pct.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/datta/fonts/pct.svg",
+      "PackagePath": "staticwebassets/fonts/datta/fonts/pct.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/datta/fonts/pct.ttf",
+      "PackagePath": "staticwebassets/fonts/datta/fonts/pct.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/datta/fonts/pct.woff",
+      "PackagePath": "staticwebassets/fonts/datta/fonts/pct.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/feather/css/feather.css",
+      "PackagePath": "staticwebassets/fonts/feather/css/feather.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/feather/fonts/feather.eot",
+      "PackagePath": "staticwebassets/fonts/feather/fonts/feather.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/feather/fonts/feather.svg",
+      "PackagePath": "staticwebassets/fonts/feather/fonts/feather.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/feather/fonts/feather.ttf",
+      "PackagePath": "staticwebassets/fonts/feather/fonts/feather.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/feather/fonts/feather.woff",
+      "PackagePath": "staticwebassets/fonts/feather/fonts/feather.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/fonts/fontawesome/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/fontawesome/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff2"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo.eot"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo.ttf"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff2"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/images/acme-corp.png",
+      "PackagePath": "staticwebassets/images/acme-corp.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/images/disintegration-pistol.png",
+      "PackagePath": "staticwebassets/images/disintegration-pistol.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/images/jet-shoes.png",
+      "PackagePath": "staticwebassets/images/jet-shoes.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/images/leg-muscle-vitamins.png",
+      "PackagePath": "staticwebassets/images/leg-muscle-vitamins.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/images/tornado-kit.png",
+      "PackagePath": "staticwebassets/images/tornado-kit.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/Envelope.png",
+      "PackagePath": "staticwebassets/img/Envelope.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/Thumbs.db",
+      "PackagePath": "staticwebassets/img/Thumbs.db"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/apple-icon.png",
+      "PackagePath": "staticwebassets/img/apple-icon.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/banks/boa.png",
+      "PackagePath": "staticwebassets/img/banks/boa.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/banks/ch.png",
+      "PackagePath": "staticwebassets/img/banks/ch.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/banks/wf.png",
+      "PackagePath": "staticwebassets/img/banks/wf.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/bg1.jpg",
+      "PackagePath": "staticwebassets/img/bg1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/browser/Thumbs.db",
+      "PackagePath": "staticwebassets/img/browser/Thumbs.db"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/browser/chrome.png",
+      "PackagePath": "staticwebassets/img/browser/chrome.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/browser/firefox.png",
+      "PackagePath": "staticwebassets/img/browser/firefox.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/browser/ie.png",
+      "PackagePath": "staticwebassets/img/browser/ie.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/browser/opera.png",
+      "PackagePath": "staticwebassets/img/browser/opera.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/browser/safari.png",
+      "PackagePath": "staticwebassets/img/browser/safari.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/bruce-mars.jpg",
+      "PackagePath": "staticwebassets/img/bruce-mars.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved-10.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved-10.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved-11.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved-11.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved-6.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved-6.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved-8.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved-8.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved0.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved0.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved1.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved10.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved10.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved11-small.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved11-small.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved11.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved11.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved12.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved12.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved13.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved13.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved14.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved14.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved19.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved19.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved2.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved2.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved21.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved21.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved3.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved3.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved4.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved4.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved5-small.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved5-small.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved5.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved5.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved6-small.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved6-small.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved6.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved6.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved7.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved7.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved8.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved8.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/curved9.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/curved9.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/curved-images/white-curved.jpg",
+      "PackagePath": "staticwebassets/img/curved-images/white-curved.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/down-arrow-dark.svg",
+      "PackagePath": "staticwebassets/img/down-arrow-dark.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/down-arrow-white.svg",
+      "PackagePath": "staticwebassets/img/down-arrow-white.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/down-arrow.svg",
+      "PackagePath": "staticwebassets/img/down-arrow.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/home-decor-1.jpg",
+      "PackagePath": "staticwebassets/img/home-decor-1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/home-decor-2.jpg",
+      "PackagePath": "staticwebassets/img/home-decor-2.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/home-decor-3.jpg",
+      "PackagePath": "staticwebassets/img/home-decor-3.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/icon-calendar.svg",
+      "PackagePath": "staticwebassets/img/icon-calendar.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/icon-clock.svg",
+      "PackagePath": "staticwebassets/img/icon-clock.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/icons/add.svg",
+      "PackagePath": "staticwebassets/img/icons/add.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/illustrations/rocket-dark.png",
+      "PackagePath": "staticwebassets/img/illustrations/rocket-dark.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/illustrations/rocket-white.png",
+      "PackagePath": "staticwebassets/img/illustrations/rocket-white.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/ivana-square.jpg",
+      "PackagePath": "staticwebassets/img/ivana-square.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/ivancik.jpg",
+      "PackagePath": "staticwebassets/img/ivancik.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets/img/kal-visuals-square.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logo-ct-dark.png",
+      "PackagePath": "staticwebassets/img/logo-ct-dark.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logo-ct.png",
+      "PackagePath": "staticwebassets/img/logo-ct.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logo-dark.png",
+      "PackagePath": "staticwebassets/img/logo-dark.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logo-thumb.png",
+      "PackagePath": "staticwebassets/img/logo-thumb.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logos/logo.png",
+      "PackagePath": "staticwebassets/img/logos/logo.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logos/mastercard.png",
+      "PackagePath": "staticwebassets/img/logos/mastercard.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/logos/visa.png",
+      "PackagePath": "staticwebassets/img/logos/visa.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/marie.jpg",
+      "PackagePath": "staticwebassets/img/marie.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/pattern-lines.svg",
+      "PackagePath": "staticwebassets/img/shapes/pattern-lines.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/shape-1.svg",
+      "PackagePath": "staticwebassets/img/shapes/shape-1.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/shape-2.svg",
+      "PackagePath": "staticwebassets/img/shapes/shape-2.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/shape-3.svg",
+      "PackagePath": "staticwebassets/img/shapes/shape-3.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/wave-down.svg",
+      "PackagePath": "staticwebassets/img/shapes/wave-down.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/wave-up.svg",
+      "PackagePath": "staticwebassets/img/shapes/wave-up.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/waves-gray.svg",
+      "PackagePath": "staticwebassets/img/shapes/waves-gray.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/shapes/waves-white.svg",
+      "PackagePath": "staticwebassets/img/shapes/waves-white.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img-slide-1.jpg",
+      "PackagePath": "staticwebassets/img/slider/img-slide-1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img-slide-2.jpg",
+      "PackagePath": "staticwebassets/img/slider/img-slide-2.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img-slide-3.jpg",
+      "PackagePath": "staticwebassets/img/slider/img-slide-3.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img-slide-4.jpg",
+      "PackagePath": "staticwebassets/img/slider/img-slide-4.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img-slide-5.jpg",
+      "PackagePath": "staticwebassets/img/slider/img-slide-5.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img1.jpg",
+      "PackagePath": "staticwebassets/img/slider/img1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img2.jpg",
+      "PackagePath": "staticwebassets/img/slider/img2.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/slider/img3.jpg",
+      "PackagePath": "staticwebassets/img/slider/img3.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/icon-sun-cloud.png",
+      "PackagePath": "staticwebassets/img/small-logos/icon-sun-cloud.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-atlassian.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-atlassian.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-invision.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-invision.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-jira.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-jira.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-slack.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-slack.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-webdev.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-webdev.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/small-logos/logo-xd.svg",
+      "PackagePath": "staticwebassets/img/small-logos/logo-xd.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/angular.jpg",
+      "PackagePath": "staticwebassets/img/theme/angular.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/bootstrap.jpg",
+      "PackagePath": "staticwebassets/img/theme/bootstrap.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/dribbble.png",
+      "PackagePath": "staticwebassets/img/theme/dribbble.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/dropbox.png",
+      "PackagePath": "staticwebassets/img/theme/dropbox.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/mastercard.png",
+      "PackagePath": "staticwebassets/img/theme/mastercard.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/paypal.png",
+      "PackagePath": "staticwebassets/img/theme/paypal.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/react.jpg",
+      "PackagePath": "staticwebassets/img/theme/react.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/sketch.jpg",
+      "PackagePath": "staticwebassets/img/theme/sketch.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/slack.png",
+      "PackagePath": "staticwebassets/img/theme/slack.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/spotify.jpeg",
+      "PackagePath": "staticwebassets/img/theme/spotify.jpeg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/tim.png",
+      "PackagePath": "staticwebassets/img/theme/tim.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/unass.jpg",
+      "PackagePath": "staticwebassets/img/theme/unass.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/visa.png",
+      "PackagePath": "staticwebassets/img/theme/visa.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/theme/vue.jpg",
+      "PackagePath": "staticwebassets/img/theme/vue.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/Thumbs.db",
+      "PackagePath": "staticwebassets/img/user/Thumbs.db"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/avatar-1.jpg",
+      "PackagePath": "staticwebassets/img/user/avatar-1.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/avatar-2.jpg",
+      "PackagePath": "staticwebassets/img/user/avatar-2.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/avatar-3.jpg",
+      "PackagePath": "staticwebassets/img/user/avatar-3.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/avatar-4.jpg",
+      "PackagePath": "staticwebassets/img/user/avatar-4.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/avatar-5.jpg",
+      "PackagePath": "staticwebassets/img/user/avatar-5.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/user-1.png",
+      "PackagePath": "staticwebassets/img/user/user-1.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/user/user-2.png",
+      "PackagePath": "staticwebassets/img/user/user-2.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/vr-bg.jpg",
+      "PackagePath": "staticwebassets/img/vr-bg.jpg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/Thumbs.db",
+      "PackagePath": "staticwebassets/img/widget/Thumbs.db"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/dashborad-1.png",
+      "PackagePath": "staticwebassets/img/widget/dashborad-1.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/dashborad-2.png",
+      "PackagePath": "staticwebassets/img/widget/dashborad-2.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/dashborad-3.png",
+      "PackagePath": "staticwebassets/img/widget/dashborad-3.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/dashborad-4.png",
+      "PackagePath": "staticwebassets/img/widget/dashborad-4.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/dashborad-5.png",
+      "PackagePath": "staticwebassets/img/widget/dashborad-5.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/dashborad-6.png",
+      "PackagePath": "staticwebassets/img/widget/dashborad-6.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/img/widget/emoticon.png",
+      "PackagePath": "staticwebassets/img/widget/emoticon.png"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/Chart.extension.js",
+      "PackagePath": "staticwebassets/js/Chart.extension.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/js/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/chart-morris-custom.js",
+      "PackagePath": "staticwebassets/js/chart-morris-custom.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/chartjs.min.js",
+      "PackagePath": "staticwebassets/js/chartjs.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/dark-mode-handler.js",
+      "PackagePath": "staticwebassets/js/dark-mode-handler.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/dark-mode.js",
+      "PackagePath": "staticwebassets/js/dark-mode.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/google-maps.js",
+      "PackagePath": "staticwebassets/js/google-maps.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/menu-setting.js",
+      "PackagePath": "staticwebassets/js/menu-setting.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/pcoded.js",
+      "PackagePath": "staticwebassets/js/pcoded.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/pcoded.min.js",
+      "PackagePath": "staticwebassets/js/pcoded.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets/js/soft-ui-dashboard.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets/js/soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets/js/soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/js/vendor-all.min.js",
+      "PackagePath": "staticwebassets/js/vendor-all.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/amcharts.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/amcharts.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/ammap.min.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/ammap.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/gauge.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/gauge.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/images/dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets/plugins/amchart/js/images/dragIconRoundBig.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/images/lens.svg",
+      "PackagePath": "staticwebassets/plugins/amchart/js/images/lens.svg"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/light.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/light.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/pie.min.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/pie.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/radar.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/radar.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/serial.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/serial.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/usaLow.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/usaLow.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/amchart/js/worldLow.js",
+      "PackagePath": "staticwebassets/plugins/amchart/js/worldLow.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/animate.cs",
+      "PackagePath": "staticwebassets/plugins/animate.cs"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/bootstrap/js/popover.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/js/popover.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/chart-morris/css/morris.css",
+      "PackagePath": "staticwebassets/plugins/chart-morris/css/morris.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/chart-morris/js/morris.min.js",
+      "PackagePath": "staticwebassets/plugins/chart-morris/js/morris.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/chart-morris/js/raphael.min.js",
+      "PackagePath": "staticwebassets/plugins/chart-morris/js/raphael.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/google-maps/js/gmaps.js",
+      "PackagePath": "staticwebassets/plugins/google-maps/js/gmaps.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/jquery-scrollbar/css/jquery.scrollbar.min.css",
+      "PackagePath": "staticwebassets/plugins/jquery-scrollbar/css/jquery.scrollbar.min.css"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/jquery-scrollbar/js/jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets/plugins/jquery-scrollbar/js/jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/jquery-ui/js/jquery-ui.js",
+      "PackagePath": "staticwebassets/plugins/jquery-ui/js/jquery-ui.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/jquery/js/jquery.min.js",
+      "PackagePath": "staticwebassets/plugins/jquery/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/plugins/popper.min.js",
+      "PackagePath": "staticwebassets/plugins/popper.min.js"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/dark-theme-core.scss",
+      "PackagePath": "staticwebassets/scss/dark-theme-core.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/dark.scss",
+      "PackagePath": "staticwebassets/scss/dark.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_alert.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_alert.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_avatars.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_avatars.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_badge.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_buttons.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_cards.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_cards.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_dark-version.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_dropup.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_dropup.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_footer.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_footer.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_forms.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_gradients.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_header.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_header.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_info-areas.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_misc.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_misc.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_nav.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_nav.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_navbar.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_pagination.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_popovers.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_popovers.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_progress.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_progress.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_rtl.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_rtl.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_tables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_tables.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_tilt.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_tilt.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_timeline.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_timeline.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_tooltips.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_tooltips.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_typography.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_typography.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_utilities.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/_variables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/_variables.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_maps.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_maps.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/cards/card-background.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/cards/card-background.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/custom/_styles.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/custom/_styles.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/custom/_variables.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/custom/_variables.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_form-switch.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_forms.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_forms.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_inputs.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_inputs.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/mixins/_colored-shadows.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_colored-shadows.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/mixins/mixins.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/mixins/mixins.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/plugins/free/_nouislider.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_nouislider.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/plugins/free/_prism.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/_prism.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/plugins/free/plugins.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/plugins/free/plugins.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/theme.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/theme.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_animations.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_animations.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_avatars.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_avatars.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_badge.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_badge.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_cards-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_cards-extend.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_cards.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_cards.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_choices.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_choices.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_dark-version.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_dropdowns.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_form-switch.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_full-calendar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_full-calendar.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_header.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_header.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_info-areas.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_misc-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_misc-extend.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_misc.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_misc.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_navbar.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_pagination.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_rtl.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_rtl.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_table.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_table.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_timeline.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_timeline.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_utilities.scss"
+    },
+    {
+      "Id": "/Users/leirad/acme/catalog/wwwroot/scss/soft-ui-dashboard/variables/_virtual-reality.scss",
+      "PackagePath": "staticwebassets/scss/soft-ui-dashboard/variables/_virtual-reality.scss"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.acme.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.acme.props",
+      "PackagePath": "build\\acme.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.acme.props",
+      "PackagePath": "buildMultiTargeting\\acme.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.acme.props",
+      "PackagePath": "buildTransitive\\acme.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

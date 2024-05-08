@@ -1,0 +1,104 @@
+@model IEnumerable<acme.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-xl-12 col-md-12 m-b-30">
+    <div class="card User-Activity">
+        <div class="card-header">
+            <h5>Products List</h5>
+            <div>
+
+            </div>
+
+            <div class="card-header-right">
+
+
+                <a data-bs-toggle="modal" data-bs-target="#modal-loading" class="btn btn-sm btn-primary text-right">Create Product</a>
+
+
+                <button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="feather icon-more-horizontal"></i>
+                </button>
+                <div class="btn-group card-option">
+                    <ul class="list-unstyled card-option dropdown-menu dropdown-menu-end">
+                        <li class="dropdown-item full-card">
+                            <a class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minimize"></i> Import Products
+                                </span>
+                            </a>
+                        </li>
+                        <li class="dropdown-item reload-card">
+                            <a class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minus"></i> Sort By Name
+                                </span>
+                            </a>
+                        </li>
+                        <li class="dropdown-item reload-card">
+                            <a class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minimize"></i> Sort By Price
+                                </span>
+                            </a>
+                        </li>
+                        <li class="dropdown-item reload-card">
+                            <a asp-action="Index" class="btn btn-gradient align-right">
+                                <span>
+                                    <i class="feather icon-minimize"></i> Show Low Stock
+                                </span>
+                            </a>
+                        </li>
+
+                    </ul>
+                    <a asp-action="Index"><h3><i class="feather icon-x"></i></h3></a>
+                </div>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive table-billing-history" style="max-height: 400px; overflow-y: auto;" id="transfers" role="tabpanel" aria-labelledby="transfers-tab">
+                <table class="table mb-0">
+                    <thead>
+                        <tr>
+                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Id)</th>
+                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Name)</th>
+                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Uom)</th>
+                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Pack)</th>
+                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Comments)</th>
+                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Price)</th>
+                      
+                            <th class="border-gray-200" scope="col">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody style="max-height: 400px; overflow-y: auto;">
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td class="text-truncate" style="max-width: 350px !important;"><span> @item.Name</span></td>
+                                <td>@item.Uom</td>
+                                <td>@item.Pack</td>
+                                <td class="text-truncate" style="max-width: 250px !important;"><span> @item.Comments</span></td>
+                                <td><div class="text-right">@item.Price.ToString("C", new System.Globalization.CultureInfo("en-US"))</div></td>
+                                
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                </td>
+                            </tr>
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+
+
+    </div>
+</div>

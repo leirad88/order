@@ -1,0 +1,110 @@
+@model IEnumerable<acme.Models.ImportedOrder>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Upload File</h1>
+<div class="col-xl-6 col-md-8 col-sm-12">
+    <div class="card User-Activity">
+        <div class="card-header">
+            <h5>Import Transactions</h5>
+            <div>
+
+            </div>
+            <div class="card-header-right">
+                <a asp-action="Index"><i class="feather icon-x"></i></a>
+            </div>
+        </div>
+        <div class="card-block pb-0">
+            <h3>Upload CSV File</h3>
+            <form asp-action="UploadFile" method="post" enctype="multipart/form-data">
+                <div>
+                    <label for="file">Choose a PDF file to upload:</label>
+                    <input type="file" name="file" id="file" accept=".pdf" />
+                </div>
+                <div>
+                    <input type="submit" class="btn btn-primary" value="Upload" />
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShippingMethod)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestedDeliveryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subtotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShippingHandling)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tax)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippingMethod)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RequestedDeliveryDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Subtotal)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippingHandling)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tax)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Total)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
