@@ -17,7 +17,8 @@ jobs:
         dotnet-version: '8.0.204'  # Set your .NET version
 
     - name: Publish with dotnet
-      run: dotnet publish -c Release -o /home/runner/work/order/catalog
+      run: dotnet publish -c Release -o acme
+      working-directory: ./catalog
 
     - name: Copy files to the server
       uses: appleboy/scp-action@master
