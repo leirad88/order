@@ -3,7 +3,7 @@ name: Deploy ASP.NET Core App to Debian Server
 on:
   push:
     branches:
-      - starting-point  # Set to your deployment branch
+      - main  # Set to your deployment branch
 
 jobs:
   build-and-deploy:
