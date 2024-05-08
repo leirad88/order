@@ -27,5 +27,5 @@ jobs:
         username: ${{ secrets.SERVER_USER }}
         key: ${{ secrets.SSH_KEY }}
         port: 22
-        source: "acme/*"
+        source: "./catalog/bin/Release/net6.0/"
         target: "/var/www/acme"
