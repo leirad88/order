@@ -27,7 +27,7 @@ jobs:
         username: ${{ secrets.SERVER_USER }}
         key: ${{ secrets.SSH_KEY }}
         port: 22
-        source: "./bin/Release/net6.0/"
+        source: "./bin/Release/net8.0/"
         target: "/var/www/acme"
         
     - name: Restart service on the server
