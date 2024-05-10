@@ -17,7 +17,7 @@ jobs:
         dotnet-version: '8.0.204'  # Set your .NET version
 
     - name: Publish with dotnet
-      run: dotnet publish -c Release -o acme
+      run: dotnet publish -c Debug -o acme
       working-directory: ./
 
     - name: Copy files to the server
@@ -27,7 +27,7 @@ jobs:
         username: ${{ secrets.SERVER_USER }}
         key: ${{ secrets.SSH_KEY }}
         port: 22
-        source: "./bin/Release/net8.0/"
+        source: "./"
         target: "/var/www/acme"
         
     - name: Restart service on the server
