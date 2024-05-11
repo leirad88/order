@@ -45,6 +45,7 @@ builder.Services.AddDataProtection()
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IFileUploadService, FileUploadLocalService>();
+builder.WebHost.UseUrls("http://localhost:5000", "https://localhost:5001");
 
 var app = builder.Build();
 
