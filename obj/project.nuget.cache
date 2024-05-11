@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAQqivHWWJB6Iw8gjadkabqXAHjkbjCNVoBNgqBXvxHvGULB60LNYsULKKsucKNHb9/9PwSd1CnWSXkVTwNxRQ==",
+  "dgSpecHash": "1Kx3EMDhH88tyXM90ZpUchguOKmCh0sEKV98/kqGuTlrAtQTbUmNWlgiyzN+v3rrl2fXAPakXvI5dQ4l0yz1sw==",
   "success": true,
-  "projectFilePath": "/Users/leirad/acme/catalog/acme.csproj",
+  "projectFilePath": "/Users/leirad/catalog/acme.csproj",
   "expectedPackageFiles": [
     "/Users/leirad/.nuget/packages/auth0.aspnetcore.authentication/1.4.1/auth0.aspnetcore.authentication.1.4.1.nupkg.sha512",
     "/Users/leirad/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",

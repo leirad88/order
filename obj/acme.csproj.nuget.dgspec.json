@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leirad/acme/catalog/acme.csproj": {}
+    "/Users/leirad/catalog/acme.csproj": {}
   },
   "projects": {
-    "/Users/leirad/acme/catalog/acme.csproj": {
+    "/Users/leirad/catalog/acme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leirad/acme/catalog/acme.csproj",
+        "projectUniqueName": "/Users/leirad/catalog/acme.csproj",
         "projectName": "acme",
-        "projectPath": "/Users/leirad/acme/catalog/acme.csproj",
+        "projectPath": "/Users/leirad/catalog/acme.csproj",
         "packagesPath": "/Users/leirad/.nuget/packages/",
-        "outputPath": "/Users/leirad/acme/catalog/obj/",
+        "outputPath": "/Users/leirad/catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leirad/.nuget/NuGet/NuGet.Config"
