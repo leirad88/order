@@ -5,6 +5,7 @@ using acme.Models;
 using acme.Services;
 using Auth0.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using NuGet.Common;
@@ -38,6 +39,9 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
+builder.Services.AddDataProtection()
+    .PersistKeysToDbContext<AppDbContext>();
+
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IFileUploadService, FileUploadLocalService>();
