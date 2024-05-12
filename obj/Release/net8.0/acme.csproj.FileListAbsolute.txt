@@ -310,6 +310,10 @@
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Components.QuickGrid.dll
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Components.Web.dll
+/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.DataProtection.dll
+/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Metadata.dll
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
@@ -582,7 +586,3 @@
 /Users/leirad/catalog/obj/Release/net8.0/acme.pdb
 /Users/leirad/catalog/obj/Release/net8.0/acme.genruntimeconfig.cache
 /Users/leirad/catalog/obj/Release/net8.0/ref/acme.dll
-/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
-/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.DataProtection.dll
-/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll
-/Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll

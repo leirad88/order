@@ -39,8 +39,8 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
-//builder.Services.AddDataProtection()
- //   .PersistKeysToDbContext<AppDbContext>();
+builder.Services.AddDataProtection()
+    .PersistKeysToDbContext<AppDbContext>();
 
 builder.Services.AddControllersWithViews();
 
@@ -55,7 +55,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 app.UseMiddleware<ReverseProxyMiddleware>();
-//app.UseHttpsRedirection();
+app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 
