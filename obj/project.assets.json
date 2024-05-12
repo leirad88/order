@@ -8639,6 +8639,7 @@
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.devexpress.com/ZPCVFlwITw4XHBHh8MuGgljWfHyFGgaUeKuzvwAZfncO9vw2Qa/api": {}
       },
@@ -8726,7 +8727,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
