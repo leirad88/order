@@ -32,13 +32,13 @@ builder.Services
 {
     options.Audience = builder.Configuration["Auth0:Audience"];
 });
-builder.WebHost.ConfigureKestrel(serverOptions =>
-{
-    serverOptions.Listen(IPAddress.Any, 5001, listenOptions =>
-    {
-        listenOptions.UseHttps("/etc/letsencrypt/live/5starhealth.care/certificate.pfx", "Sirius880108");
-    });
-});
+//builder.WebHost.ConfigureKestrel(serverOptions =>
+//{
+//    serverOptions.Listen(IPAddress.Any, 5001, listenOptions =>
+//    {
+//        listenOptions.UseHttps("/etc/letsencrypt/live/5starhealth.care/certificate.pfx", "Sirius880108");
+//    });
+//});
 builder.Services.Configure<ForwardedHeadersOptions>(options =>
 {
     options.ForwardedHeaders = ForwardedHeaders.XForwardedProto;
