@@ -1,3 +1,4 @@
+using System.Net;
 using System.Security.Cryptography;
 using System.Text.Json;
 using acme.Data;
@@ -30,6 +31,13 @@ builder.Services
 .WithAccessToken(options =>
 {
     options.Audience = builder.Configuration["Auth0:Audience"];
+});
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.Listen(IPAddress.Any, 5001, listenOptions =>
+    {
+        listenOptions.UseHttps("/etc/letsencrypt/live/5starhealth.care/certificate.pfx", "Sirius880108");
+    });
 });
 builder.Services.Configure<ForwardedHeadersOptions>(options =>
 {
