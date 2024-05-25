@@ -1,20 +1,25 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6C91027A-7AC3-41E4-A92C-8E717894D653}|Default">
+﻿<Properties StartupConfiguration="{6C91027A-7AC3-41E4-A92C-8E717894D653}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="47" Column="55" />
+      <File FileName="Program.cs" Line="41" Column="6" />
       <File FileName="Services/FileUploader.cs" />
       <File FileName="Controllers/ImportOrderController.cs" />
       <File FileName="Controllers/HomeController.cs" />
-      <File FileName="appsettings.json" Line="55" Column="1" />
+      <File FileName="appsettings.json" />
       <File FileName="Controllers/AccountController.cs" />
       <File FileName="README.md" />
       <File FileName="Controllers/CatalogController.cs" />
       <File FileName="Views/Account/Profile.cshtml" />
       <File FileName="Views/Catalog/Index.cshtml" />
       <File FileName="Views/Catalog/Redeem.cshtml" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="463" Column="23" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
       <File FileName="Views/Home/Index.cshtml" />
-      <File FileName="Data/AppDBContext.cs" Line="8" Column="69" />
+      <File FileName="Data/AppDBContext.cs" />
       <File FileName="Models/RedeemResponseModel.cs" />
       <File FileName="Models/AccessToken.cs" />
       <File FileName="Controllers/OrdersController.cs" />
@@ -22,38 +27,28 @@
       <File FileName="wwwroot/css/forms.css" />
       <File FileName="wwwroot/css/nucleo-svg.css" />
       <File FileName="Views/Products/Details.cshtml" />
-      <File FileName="Views/ImportOrder/Index.cshtml" Line="6" Column="1" />
+      <File FileName="Views/ImportOrder/Index.cshtml" />
       <File FileName="Models/Products.cs" />
       <File FileName="Views/ImportOrder/Details.cshtml" />
       <File FileName="acme.csproj" />
-      <File FileName="Properties/launchSettings.json" Line="46" Column="1" />
+      <File FileName="Properties/launchSettings.json" />
       <File FileName="Properties/PublishProfiles/FolderProfile.pubxml" />
-      <File FileName="appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="Services/ReverseProxyMiddleware.cs" Line="6" Column="1" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Services/ReverseProxyMiddleware.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="acme">
             <Node name="acme">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="PublishProfiles" expanded="True" />
-              </Node>
-              <Node name="Services" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.acme PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
 </Properties>

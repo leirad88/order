@@ -32,13 +32,11 @@ builder.Services
 {
     options.Audience = builder.Configuration["Auth0:Audience"];
 });
-//builder.WebHost.ConfigureKestrel(serverOptions =>
-//{
-//    serverOptions.Listen(IPAddress.Any, 5001, listenOptions =>
-//    {
-//        listenOptions.UseHttps("/etc/letsencrypt/live/5starhealth.care/certificate.pfx", "Sirius880108");
-//    });
-//});
+builder.WebHost.ConfigureKestrel((context, options) =>
+{
+    // This will configure Kestrel to use the URLs in appsettings.json
+    options.Configure(context.Configuration.GetSection("Kestrel"));
+});
 builder.Services.Configure<ForwardedHeadersOptions>(options =>
 {
     options.ForwardedHeaders = ForwardedHeaders.XForwardedProto;
