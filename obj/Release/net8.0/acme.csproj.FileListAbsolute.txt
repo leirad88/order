@@ -292,6 +292,7 @@
 /Users/leirad/acme/catalog/obj/Release/net8.0/ref/acme.dll
 /Users/leirad/catalog/bin/Release/net8.0/appsettings.Development.json
 /Users/leirad/catalog/bin/Release/net8.0/appsettings.json
+/Users/leirad/catalog/bin/Release/net8.0/appsettings.Production.json
 /Users/leirad/catalog/bin/Release/net8.0/acme.staticwebassets.runtime.json
 /Users/leirad/catalog/bin/Release/net8.0/acme.deps.json
 /Users/leirad/catalog/bin/Release/net8.0/acme.runtimeconfig.json
@@ -389,6 +390,7 @@
 /Users/leirad/catalog/bin/Release/net8.0/System.Reflection.MetadataLoadContext.dll
 /Users/leirad/catalog/bin/Release/net8.0/System.Runtime.Caching.dll
 /Users/leirad/catalog/bin/Release/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/leirad/catalog/bin/Release/net8.0/System.Security.Cryptography.Xml.dll
 /Users/leirad/catalog/bin/Release/net8.0/System.Security.Permissions.dll
 /Users/leirad/catalog/bin/Release/net8.0/System.Windows.Extensions.dll
 /Users/leirad/catalog/bin/Release/net8.0/af/Humanizer.resources.dll

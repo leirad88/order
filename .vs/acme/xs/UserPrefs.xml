@@ -1,16 +1,12 @@
 ﻿<Properties StartupConfiguration="{6C91027A-7AC3-41E4-A92C-8E717894D653}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.Production.json">
     <Files>
-      <File FileName="Program.cs" Line="41" Column="6" />
-      <File FileName="Services/FileUploader.cs" />
+      <File FileName="Program.cs" Line="88" Column="8" />
+      <File FileName="Services/FileUploader.cs" Line="1" Column="1" />
       <File FileName="Controllers/ImportOrderController.cs" />
       <File FileName="Controllers/HomeController.cs" />
-      <File FileName="appsettings.json" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
       <File FileName="Controllers/AccountController.cs" />
       <File FileName="README.md" />
       <File FileName="Controllers/CatalogController.cs" />
@@ -31,24 +27,31 @@
       <File FileName="Models/Products.cs" />
       <File FileName="Views/ImportOrder/Details.cshtml" />
       <File FileName="acme.csproj" />
-      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
       <File FileName="Properties/PublishProfiles/FolderProfile.pubxml" />
-      <File FileName="appsettings.Development.json" />
-      <File FileName="Services/ReverseProxyMiddleware.cs" />
+      <File FileName="appsettings.Development.json" Line="11" Column="51" />
+      <File FileName="Services/ReverseProxyMiddleware.cs" Line="1" Column="1" />
+      <File FileName="appsettings.Production.json" Line="15" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="acme">
+          <Node name="acme" selected="True">
+            <Node name="NuGet.Config files" expanded="True" />
             <Node name="acme">
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.ItemProperties.acme PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
