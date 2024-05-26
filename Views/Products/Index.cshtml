@@ -61,14 +61,14 @@
         <div class="card-body">
             <div class="table-responsive table-billing-history" style="overflow-y: auto;" id="transfers" role="tabpanel" aria-labelledby="transfers-tab">
                 <table class="table mb-0">
-                    <thead>
+                    <thead style="position: sticky;top: 0">
                         <tr>
-                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Id)</th>
-                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Name)</th>
-                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Uom)</th>
-                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Pack)</th>
-                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Comments)</th>
-                            <th class="border-gray-200" scope="col">@Html.DisplayNameFor(model => model.Price)</th>
+                            <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Id)</th>
+                            <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Name)</th>
+                            <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Uom)</th>
+                            <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Pack)</th>
+                            <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Comments)</th>
+                            <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Price)</th>
                       
                             <th class="border-gray-200" scope="col">Actions</th>
                         </tr>
