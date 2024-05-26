@@ -302,6 +302,8 @@
 /Users/leirad/catalog/bin/Release/net8.0/Azure.Core.dll
 /Users/leirad/catalog/bin/Release/net8.0/Azure.Identity.dll
 /Users/leirad/catalog/bin/Release/net8.0/BouncyCastle.Crypto.dll
+/Users/leirad/catalog/bin/Release/net8.0/ChartJSCore.dll
+/Users/leirad/catalog/bin/Release/net8.0/EasyChartJSCore.dll
 /Users/leirad/catalog/bin/Release/net8.0/Humanizer.dll
 /Users/leirad/catalog/bin/Release/net8.0/itextsharp.dll
 /Users/leirad/catalog/bin/Release/net8.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
@@ -588,5 +590,3 @@
 /Users/leirad/catalog/obj/Release/net8.0/acme.pdb
 /Users/leirad/catalog/obj/Release/net8.0/acme.genruntimeconfig.cache
 /Users/leirad/catalog/obj/Release/net8.0/ref/acme.dll
-/Users/leirad/catalog/bin/Release/net8.0/ChartJSCore.dll
-/Users/leirad/catalog/bin/Release/net8.0/EasyChartJSCore.dll
