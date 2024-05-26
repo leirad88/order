@@ -9,6 +9,8 @@
       "acme/1.0.0": {
         "dependencies": {
           "Auth0.AspNetCore.Authentication": "1.4.1",
+          "ChartJSCore": "3.10.1",
+          "EasyChartJSCore": "1.0.0",
           "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": "8.0.5",
           "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": "8.0.5",
           "Microsoft.EntityFrameworkCore": "8.0.5",
@@ -75,6 +77,28 @@
           "lib/BouncyCastle.Crypto.dll": {
             "assemblyVersion": "1.8.9.0",
             "fileVersion": "1.8.20343.1"
+          }
+        }
+      },
+      "ChartJSCore/3.10.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ChartJSCore.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.10.1.0"
+          }
+        }
+      },
+      "EasyChartJSCore/1.0.0": {
+        "dependencies": {
+          "ChartJSCore": "3.10.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/EasyChartJSCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -2283,6 +2307,20 @@
       "sha512": "sha512-axnBgvdD5n+FnEG6efk/tfKuMFru7R/EoISH9zjh319yb3HD24TEHSAbNN/lTRT2ulOGRxDgOsCjkuk08iwWPg==",
       "path": "bouncycastle/1.8.9",
       "hashPath": "bouncycastle.1.8.9.nupkg.sha512"
+    },
+    "ChartJSCore/3.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X4qlrFhb3p3UC9eQsghgG7NN0lqjt0r8av0jhNFBELbIcO6jTHqWEza3eo8YT6FFvooSMCMMAoWSdqJJKG4IJw==",
+      "path": "chartjscore/3.10.1",
+      "hashPath": "chartjscore.3.10.1.nupkg.sha512"
+    },
+    "EasyChartJSCore/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tHZeB/FuMl2Dg3uCIlBT1se+S5SkZXqHn9otRetJd4N83KELrSK8L1acW5SVw3XeY0wvU9q+TfMvGmZszsqg8Q==",
+      "path": "easychartjscore/1.0.0",
+      "hashPath": "easychartjscore.1.0.0.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

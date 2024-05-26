@@ -11,6 +11,9 @@ using acme.Services;
 using static System.Net.Mime.MediaTypeNames;
 using System.Globalization;
 using iTextSharp.text.pdf.parser;
+using ChartJSCore.Models;
+using System.Runtime.InteropServices;
+using ChartJSCore.Helpers;
 
 namespace acme.Controllers
 {
@@ -27,7 +30,63 @@ namespace acme.Controllers
         // GET: ImportOrder
         public async Task<IActionResult> Index()
         {
+            var orders = await _context.ImportedOrder.ToListAsync();
+            ViewData["Chart"] = GetChart(orders.OrderBy(d=>d.OrderDate).ToList());
             return View(await _context.ImportedOrder.ToListAsync());
+        }
+        public Chart GetChart(List<ImportedOrder> list)
+        {
+            Chart chart = new Chart
+            {
+                Type = Enums.ChartType.Line
+
+            };
+
+            ChartJSCore.Models.Options options = new ChartJSCore.Models.Options
+            {
+                Responsive = true
+                 
+            };
+            ChartJSCore.Models.Data data = new ChartJSCore.Models.Data();
+            data.Labels = list.Select(a => a.OrderDate.ToShortDateString()).ToList();
+            List<decimal> dec = list.Select(a => a.Total).ToList();
+            List<double?> dou = new List<double?>();
+            foreach(var d in dec)
+            {
+                dou.Add(double.Parse(d.ToString()));
+            }
+            LineDataset dataset = new LineDataset()
+            {
+                Label = "Orders",
+                Data = dou,
+                Fill = "true",
+                Tension = 0.1,
+                BackgroundColor = new List<ChartColor> { ChartColor.FromRgba(75, 192, 192, 0.4) },
+                BorderColor = new List<ChartColor> { ChartColor.FromRgb(75, 192, 192) },
+                BorderCapStyle = "butt",
+                BorderDash = new List<int> { },
+                BorderDashOffset = 0.0,
+                BorderJoinStyle = "miter",
+                PointBorderColor = new List<ChartColor> { ChartColor.FromRgb(75, 192, 192) },
+                PointBackgroundColor = new List<ChartColor> { ChartColor.FromHexString("#ffffff") },
+                PointBorderWidth = new List<int> { 5 },
+                PointHoverRadius = new List<int> { 15 },
+                PointHoverBackgroundColor = new List<ChartColor> { ChartColor.FromRgb(75, 192, 192) },
+                PointHoverBorderColor = new List<ChartColor> { ChartColor.FromRgb(220, 220, 220) },
+                PointHoverBorderWidth = new List<int> { 7 },
+                PointRadius = new List<int> { 10 },
+                PointHitRadius = new List<int> { 20 },
+                SpanGaps = false
+            };
+
+            data.Datasets = new List<Dataset>();
+            data.Datasets.Add(dataset);
+
+            chart.Data = data;
+
+            chart.Options = options;
+
+            return chart;
         }
         [HttpPost]
         public async Task<IActionResult> UploadFile(IFormFile file)

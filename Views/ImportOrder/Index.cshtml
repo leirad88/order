@@ -3,32 +3,18 @@
 @{
     ViewData["Title"] = "Index";
 }
-<div class="col-xl-6 col-md-8 col-sm-12">
-    <div class="card User-Activity">
-        <div class="card-header">
-            <h5>Import Order</h5>
-            <div>
 
-            </div>
-            <div class="card-header-right">
-                <a asp-action="Index"><i class="feather icon-x"></i></a>
-            </div>
-        </div>
-        <div class="card-block pb-0">
-            <h3>Upload the Order PDF File</h3>
-            <form asp-action="UploadFile" method="post" enctype="multipart/form-data">
-                <div>
-                    <label for="file">Choose a PDF file to upload:</label>
-                    <input type="file" name="file" id="file" accept=".pdf" />
-                </div>
-                <div class="d-flex flex-row-reverse">
-                    <input type="submit" class="btn btn-primary" value="Upload" />
+<h2>Orders</h2>
+<div><canvas id="lineChart" width="400" height="100"></canvas></div>
 
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
+@{ChartJSCore.Models.Chart chart = (ChartJSCore.Models.Chart)ViewData["Chart"]; }
+
+@section Scripts {
+    <script src="/lib/Chart.js/dist/Chart.js"></script>
+    <script>
+        @Html.Raw(chart.CreateChartCode("lineChart"));
+    </script>
+}
 <div class="col-xl-12 col-md-12 col-sm-12">
     <div class="card User-Activity">
         <div class="card-header">
@@ -40,7 +26,7 @@
                 <a asp-action="Index"><i class="feather icon-x"></i></a>
             </div>
         </div>
-       
+
         <table class="table">
             <thead>
                 <tr>
@@ -109,3 +95,30 @@
                 }
             </tbody>
         </table>
+        </div>
+        <div class="col-xl-6 col-md-8 col-sm-12">
+            <div class="card User-Activity">
+                <div class="card-header">
+                    <h5>Import Order</h5>
+                    <div>
+
+                    </div>
+                    <div class="card-header-right">
+                        <a asp-action="Index"><i class="feather icon-x"></i></a>
+                    </div>
+                </div>
+                <div class="card-block pb-0">
+                    <h3>Upload the Order PDF File</h3>
+                    <form asp-action="UploadFile" method="post" enctype="multipart/form-data">
+                        <div>
+                            <label for="file">Choose a PDF file to upload:</label>
+                            <input type="file" name="file" id="file" accept=".pdf" />
+                        </div>
+                        <div class="d-flex flex-row-reverse">
+                            <input type="submit" class="btn btn-primary" value="Upload" />
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>

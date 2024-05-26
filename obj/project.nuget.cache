@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "83gLFwEraju0bLGMEB23w9DlOvdpfWJPB+IKUD0Zn4BJzigDNV1ydlD6qn5Hv8cRuNbSmmxuetNPxWkHPQ6cQA==",
+  "dgSpecHash": "Qilg02CmzQ6RDs4zrfXy9is+JxeDYRql2dlpcTxPQm8YCEcqIQaookvvNs2ED+QLWPQGDS3dr5+xGjPQjuPcxQ==",
   "success": true,
   "projectFilePath": "/Users/leirad/catalog/acme.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/leirad/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/leirad/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/Users/leirad/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/Users/leirad/.nuget/packages/chartjscore/3.10.1/chartjscore.3.10.1.nupkg.sha512",
+    "/Users/leirad/.nuget/packages/easychartjscore/1.0.0/easychartjscore.1.0.0.nupkg.sha512",
     "/Users/leirad/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/leirad/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/leirad/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",

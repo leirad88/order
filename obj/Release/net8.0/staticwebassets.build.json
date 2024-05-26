@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ppI7j1LXz8PAJqD08GaSzFEnnGj5GOFMayc/P6bMWa4=",
+  "Hash": "bzsOyH8KA9JomJlMZVCnFC/fuql9VmrJXBLG5B3rRdE=",
   "Source": "acme",
   "BasePath": "_content/acme",
   "Mode": "Default",
@@ -4765,6 +4765,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+    },
+    {
+      "Identity": "/Users/leirad/catalog/wwwroot/lib/Chart.js/dist/chart.js",
+      "SourceId": "acme",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/leirad/catalog/wwwroot/",
+      "BasePath": "_content/acme",
+      "RelativePath": "lib/Chart.js/dist/chart.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/Chart.js/dist/chart.js"
     },
     {
       "Identity": "/Users/leirad/catalog/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",

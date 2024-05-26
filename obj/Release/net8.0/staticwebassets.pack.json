@@ -809,6 +809,10 @@
       "PackagePath": "staticwebassets/js/vendor-all.min.js"
     },
     {
+      "Id": "/Users/leirad/catalog/wwwroot/lib/Chart.js/dist/chart.js",
+      "PackagePath": "staticwebassets/lib/Chart.js/dist/chart.js"
+    },
+    {
       "Id": "/Users/leirad/catalog/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
