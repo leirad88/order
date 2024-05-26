@@ -59,9 +59,9 @@
             </div>
         </div>
         <div class="card-body">
-            <div class="table-responsive table-billing-history" style="overflow-y: auto;" id="transfers" role="tabpanel" aria-labelledby="transfers-tab">
+            <div class="table-responsive table-billing-history" style="max-height: 800px; overflow-y: auto;" id="transfers" role="tabpanel" aria-labelledby="transfers-tab">
                 <table class="table mb-0">
-                    <thead style="position: sticky;top: 0">
+                    <thead style="position: sticky; top: 0; background-color: white" class="shadow-sm p-3 mb-5 bg-white rounded">
                         <tr>
                             <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Id)</th>
                             <th class="border-gray-200 header" scope="col">@Html.DisplayNameFor(model => model.Name)</th>
