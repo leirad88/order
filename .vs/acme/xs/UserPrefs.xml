@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{6C91027A-7AC3-41E4-A92C-8E717894D653}|Default" GitUserInfo="UsingGIT">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.Production.json">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6C91027A-7AC3-41E4-A92C-8E717894D653}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/ImportOrder/Index.cshtml">
     <Files>
       <File FileName="Program.cs" Line="88" Column="8" />
-      <File FileName="Services/FileUploader.cs" Line="1" Column="1" />
-      <File FileName="Controllers/ImportOrderController.cs" />
+      <File FileName="Services/FileUploader.cs" />
+      <File FileName="Controllers/ImportOrderController.cs" Line="76" Column="58" />
       <File FileName="Controllers/HomeController.cs" />
-      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.json" />
       <File FileName="Controllers/AccountController.cs" />
       <File FileName="README.md" />
-      <File FileName="Controllers/CatalogController.cs" />
+      <File FileName="Controllers/CatalogController.cs" Line="1" Column="1" />
       <File FileName="Views/Account/Profile.cshtml" />
       <File FileName="Views/Catalog/Index.cshtml" />
       <File FileName="Views/Catalog/Redeem.cshtml" />
-      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="482" Column="22" />
       <File FileName="Views/Home/Index.cshtml" />
       <File FileName="Data/AppDBContext.cs" />
       <File FileName="Models/RedeemResponseModel.cs" />
@@ -23,24 +23,46 @@
       <File FileName="wwwroot/css/forms.css" />
       <File FileName="wwwroot/css/nucleo-svg.css" />
       <File FileName="Views/Products/Details.cshtml" />
-      <File FileName="Views/ImportOrder/Index.cshtml" />
+      <File FileName="Views/ImportOrder/Index.cshtml" Line="98" Column="15" />
       <File FileName="Models/Products.cs" />
-      <File FileName="Views/ImportOrder/Details.cshtml" />
+      <File FileName="Views/ImportOrder/Details.cshtml" Line="142" Column="101" />
       <File FileName="acme.csproj" />
-      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" />
       <File FileName="Properties/PublishProfiles/FolderProfile.pubxml" />
-      <File FileName="appsettings.Development.json" Line="11" Column="51" />
-      <File FileName="Services/ReverseProxyMiddleware.cs" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Services/ReverseProxyMiddleware.cs" />
       <File FileName="appsettings.Production.json" Line="15" Column="33" />
+      <File FileName="Views/Products/Index.cshtml" Line="64" Column="102" />
+      <File FileName="Views/Orders/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Orders/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Views/ImportOrder/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Views/ImportOrder/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="wwwroot/lib/Chart.js/dist/chart.js" Line="22" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="acme" selected="True">
+          <Node name="acme">
             <Node name="NuGet.Config files" expanded="True" />
             <Node name="acme">
-              <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ImportOrder" expanded="True" />
+                <Node name="Orders" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="Chart.js" expanded="True" selected="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
@@ -48,10 +70,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.ItemProperties.acme PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>
